@@ -1,0 +1,34 @@
+.logo {
+  margin: 50px;
+}
+
+.header {
+  width: 100%;
+  height: 368px;
+}
+.header-image {
+  background-repeat:no-repeat;
+  background-size: auto;
+  background: url("../public/images/auto_1.jpg");
+  background-size: cover;
+  background-position: top center;
+}
+
+.content {
+  padding-top: 50px;
+}
+
+.business-hours {
+  margin-top: 10px;
+}
+
+.business-hours .fr .time{
+  padding-left: 37px;
+}
+
+.fax .contact-number {
+  padding-left: 3px;
+}
+.tel .contact-number {
+  padding-left: 6px;
+}
