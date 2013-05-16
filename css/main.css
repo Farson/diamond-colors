@@ -13,7 +13,7 @@ body {
 .header-image {
   background-repeat:no-repeat;
   background-size: auto;
-  background: url("../public/images/auto_1.jpg");
+  background: url("../public/images/auto_2.jpg");
   background-size: cover;
   background-position: top center;
 }
