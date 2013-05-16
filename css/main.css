@@ -2,7 +2,8 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 .logo {
-  margin: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .header {
@@ -31,7 +32,7 @@ body {
 }
 
 .fax .contact-number {
-  padding-left: 3px;
+  padding-left: 7px;
 }
 .tel .contact-number {
   padding-left: 6px;
